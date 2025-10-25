@@ -69,8 +69,8 @@ APMC-Market-Analysis/
 
 Below are sample visualizations (stored in the `output/` folder):
 
-![Market Trend](output/image1.png)
-![K Mean Algorithm](output/image2.png)
+![Market Trend](https://github.com/mr-chaitanyad/APMC-Market-Analysis/blob/master/output/image1.jpg)
+![K Mean Algorithm](https://github.com/mr-chaitanyad/APMC-Market-Analysis/blob/master/output/image2.jpg)
 
 > 💡 *Ensure your output images are placed inside the `output/` folder with the same filenames as above.*
 
@@ -80,7 +80,7 @@ Below are sample visualizations (stored in the `output/` folder):
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/APMC-Market-Analysis.git
+   git clone https://github.com/mr-chaitanyad/APMC-Market-Analysis.git
    cd APMC-Market-Analysis
    ```
 
