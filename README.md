@@ -1,8 +1,3 @@
-Perfect 👍 — I see your **project structure** from the screenshot. Based on it, here’s the updated and accurate `README.md` for your **APMC Market Analysis (Streamlit-based)** project:
-
----
-
-```markdown
 # 🏪 APMC Market Analysis
 
 ## 📘 Project Overview
@@ -31,7 +26,6 @@ Using **Streamlit**, this project provides an interactive dashboard for explorin
 
 ## 📂 Project Structure
 ```
-
 APMC-Market-Analysis/
 │
 ├── .vscode/settings.json         # VS Code settings
@@ -58,8 +52,7 @@ APMC-Market-Analysis/
 │
 ├── requirements.txt              # Dependencies
 └── README.md                     # Project documentation (this file)
-
-````
+```
 
 ---
 
@@ -76,8 +69,8 @@ APMC-Market-Analysis/
 
 Below are sample visualizations (stored in the `output/` folder):
 
-![Market Trend](output/image1.jpg)
-![K Mean Algorithm](output/image2.jpg)
+![Market Trend](output/image1.png)
+![K Mean Algorithm](output/image2.png)
 
 > 💡 *Ensure your output images are placed inside the `output/` folder with the same filenames as above.*
 
@@ -89,16 +82,14 @@ Below are sample visualizations (stored in the `output/` folder):
    ```bash
    git clone https://github.com/<your-username>/APMC-Market-Analysis.git
    cd APMC-Market-Analysis
-````
+   ```
 
 2. **Install dependencies**
-
    ```bash
    pip install -r requirements.txt
    ```
 
 3. **Run the Streamlit app**
-
    ```bash
    streamlit run app.py
    ```
@@ -108,29 +99,23 @@ Below are sample visualizations (stored in the `output/` folder):
 ---
 
 ## 📌 Future Enhancements
-
-* Integrate real-time APMC data APIs.
-* Add predictive analytics for price forecasting.
-* Deploy online via Streamlit Cloud or Render.
-* Include comparison charts for multiple commodities.
+- Integrate real-time APMC data APIs.
+- Add predictive analytics for price forecasting.
+- Deploy online via Streamlit Cloud or Render.
+- Include comparison charts for multiple commodities.
 
 ---
 
 ## 👨‍💻 Author
-
-**Chaitanya Dinesh Dhayarkar**
-*Vivekanand College, Chembur*
+**Chaitanya Dinesh Dhayarkar**  
+*Vivekanand College, Chembur*  
 💼 IT Student | Data & Web Enthusiast
 
 ---
 
 ## 📄 License
-
 This project is licensed under the **MIT License**.
 
 ---
 
 🌾 *“Empowering farmers through data-driven insights.”* 🌾
-
-```
-
