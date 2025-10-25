@@ -1,0 +1,37 @@
+/* assets/style.css */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    padding: 0;
+    margin: 0;
+}
+
+
+/* Style the container of the checklist */
+#theme-toggle {
+    margin-left: auto;
+    margin-right: 100px;
+    font-weight: bold;
+    color: #333;
+    display: flex;
+    align-items: center;
+}
+
+/* Style the label text */
+#theme-toggle .Select-option, 
+#theme-toggle label {
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    color: #007ACC;
+}
+
+/* Style the checkbox itself */
+#theme-toggle input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+    accent-color: #007ACC; /* modern browsers highlight checkbox */
+    margin-right: 10px;
+}
